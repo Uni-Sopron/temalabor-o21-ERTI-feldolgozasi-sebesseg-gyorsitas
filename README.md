@@ -1,3 +1,3 @@
 #ERTI Feldolgozási sebesség gyorsítás
 
-Az elkészült dokumentáció [ITT](https://erti-structure-temalab-dok.netlify.app/) található. 
+Az elkészült dokumentáció [ITT](https://uni-sopron.github.io/temalabor-o21-ERTI-feldolgozasi-sebesseg-gyorsitas/) található. 
